@@ -1,0 +1,121 @@
+
+{
+	"buildFiles" : 
+	[
+		"/Users/ashawn/Projects/Mine/VirtualBeauty/dlib-android/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"/Users/ashawn/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/ashawn/Projects/Mine/VirtualBeauty/dlib-android/.externalNativeBuild/cmake/release/x86 --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"android_dlib-Release-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "android_dlib",
+			"buildCommand" : "/Users/ashawn/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/ashawn/Projects/Mine/VirtualBeauty/dlib-android/.externalNativeBuild/cmake/release/x86 --target android_dlib",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  -target i686-none-linux-android -gcc-toolchain /Users/ashawn/Library/Android/sdk/android-ndk-r13b/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/ashawn/Library/Android/sdk/android-ndk-r13b/platforms/android-21/arch-x86  -Dandroid_dlib_EXPORTS -I../../../../../native/dlib -I../../../../../native/third_party/eigen3 -I../../../../../native/third_party/opencv/jni/include -I../../../../../native/third_party/miniglog -I../../../../../native/jni -I../../../../../native/jni/jni_detections -I../../../../../native/seetaface/FaceDetection/include -I../../../../include -isystem /Users/ashawn/Library/Android/sdk/android-ndk-r13b/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/ashawn/Library/Android/sdk/android-ndk-r13b/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/include -isystem /Users/ashawn/Library/Android/sdk/android-ndk-r13b/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti -std=c++11 -frtti -fexceptions -DMAX_LOG_LEVEL=0 -std=c++11 -Wall -Werror -O2 -DNDEBUG -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/ashawn/Projects/Mine/VirtualBeauty/native/jni/jni_detections/jni_face_det.cpp",
+					"workingDirectory" : "/Users/ashawn/Projects/Mine/VirtualBeauty/dlib-android/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  -target i686-none-linux-android -gcc-toolchain /Users/ashawn/Library/Android/sdk/android-ndk-r13b/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/ashawn/Library/Android/sdk/android-ndk-r13b/platforms/android-21/arch-x86  -Dandroid_dlib_EXPORTS -I../../../../../native/dlib -I../../../../../native/third_party/eigen3 -I../../../../../native/third_party/opencv/jni/include -I../../../../../native/third_party/miniglog -I../../../../../native/jni -I../../../../../native/jni/jni_detections -I../../../../../native/seetaface/FaceDetection/include -I../../../../include -isystem /Users/ashawn/Library/Android/sdk/android-ndk-r13b/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/ashawn/Library/Android/sdk/android-ndk-r13b/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/include -isystem /Users/ashawn/Library/Android/sdk/android-ndk-r13b/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti -std=c++11 -frtti -fexceptions -DMAX_LOG_LEVEL=0 -std=c++11 -Wall -Werror -O2 -DNDEBUG -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/ashawn/Projects/Mine/VirtualBeauty/native/jni/jni_detections/jni_imageutils.cpp",
+					"workingDirectory" : "/Users/ashawn/Projects/Mine/VirtualBeauty/dlib-android/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  -target i686-none-linux-android -gcc-toolchain /Users/ashawn/Library/Android/sdk/android-ndk-r13b/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/ashawn/Library/Android/sdk/android-ndk-r13b/platforms/android-21/arch-x86  -Dandroid_dlib_EXPORTS -I../../../../../native/dlib -I../../../../../native/third_party/eigen3 -I../../../../../native/third_party/opencv/jni/include -I../../../../../native/third_party/miniglog -I../../../../../native/jni -I../../../../../native/jni/jni_detections -I../../../../../native/seetaface/FaceDetection/include -I../../../../include -isystem /Users/ashawn/Library/Android/sdk/android-ndk-r13b/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/ashawn/Library/Android/sdk/android-ndk-r13b/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/include -isystem /Users/ashawn/Library/Android/sdk/android-ndk-r13b/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti -std=c++11 -frtti -fexceptions -DMAX_LOG_LEVEL=0 -std=c++11 -Wall -Werror -O2 -DNDEBUG -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/ashawn/Projects/Mine/VirtualBeauty/native/jni/jni_detections/jni_pedestrian_det.cpp",
+					"workingDirectory" : "/Users/ashawn/Projects/Mine/VirtualBeauty/dlib-android/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  -target i686-none-linux-android -gcc-toolchain /Users/ashawn/Library/Android/sdk/android-ndk-r13b/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/ashawn/Library/Android/sdk/android-ndk-r13b/platforms/android-21/arch-x86  -Dandroid_dlib_EXPORTS -I../../../../../native/dlib -I../../../../../native/third_party/eigen3 -I../../../../../native/third_party/opencv/jni/include -I../../../../../native/third_party/miniglog -I../../../../../native/jni -I../../../../../native/jni/jni_detections -I../../../../../native/seetaface/FaceDetection/include -I../../../../include -isystem /Users/ashawn/Library/Android/sdk/android-ndk-r13b/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/ashawn/Library/Android/sdk/android-ndk-r13b/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/include -isystem /Users/ashawn/Library/Android/sdk/android-ndk-r13b/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti -std=c++11 -frtti -fexceptions -DMAX_LOG_LEVEL=0 -std=c++11 -Wall -Werror -O2 -DNDEBUG -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/ashawn/Projects/Mine/VirtualBeauty/native/jni/jni_detections/ThinPlateSpline.cpp",
+					"workingDirectory" : "/Users/ashawn/Projects/Mine/VirtualBeauty/dlib-android/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  -target i686-none-linux-android -gcc-toolchain /Users/ashawn/Library/Android/sdk/android-ndk-r13b/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/ashawn/Library/Android/sdk/android-ndk-r13b/platforms/android-21/arch-x86  -Dandroid_dlib_EXPORTS -I../../../../../native/dlib -I../../../../../native/third_party/eigen3 -I../../../../../native/third_party/opencv/jni/include -I../../../../../native/third_party/miniglog -I../../../../../native/jni -I../../../../../native/jni/jni_detections -I../../../../../native/seetaface/FaceDetection/include -I../../../../include -isystem /Users/ashawn/Library/Android/sdk/android-ndk-r13b/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/ashawn/Library/Android/sdk/android-ndk-r13b/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/include -isystem /Users/ashawn/Library/Android/sdk/android-ndk-r13b/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti -std=c++11 -frtti -fexceptions -DMAX_LOG_LEVEL=0 -std=c++11 -Wall -Werror -O2 -DNDEBUG -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/ashawn/Projects/Mine/VirtualBeauty/native/jni/jni_common/jni_bitmap2mat.cpp",
+					"workingDirectory" : "/Users/ashawn/Projects/Mine/VirtualBeauty/dlib-android/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  -target i686-none-linux-android -gcc-toolchain /Users/ashawn/Library/Android/sdk/android-ndk-r13b/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/ashawn/Library/Android/sdk/android-ndk-r13b/platforms/android-21/arch-x86  -Dandroid_dlib_EXPORTS -I../../../../../native/dlib -I../../../../../native/third_party/eigen3 -I../../../../../native/third_party/opencv/jni/include -I../../../../../native/third_party/miniglog -I../../../../../native/jni -I../../../../../native/jni/jni_detections -I../../../../../native/seetaface/FaceDetection/include -I../../../../include -isystem /Users/ashawn/Library/Android/sdk/android-ndk-r13b/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/ashawn/Library/Android/sdk/android-ndk-r13b/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/include -isystem /Users/ashawn/Library/Android/sdk/android-ndk-r13b/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti -std=c++11 -frtti -fexceptions -DMAX_LOG_LEVEL=0 -std=c++11 -Wall -Werror -O2 -DNDEBUG -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/ashawn/Projects/Mine/VirtualBeauty/native/jni/jni_common/jni_fileutils.cpp",
+					"workingDirectory" : "/Users/ashawn/Projects/Mine/VirtualBeauty/dlib-android/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  -target i686-none-linux-android -gcc-toolchain /Users/ashawn/Library/Android/sdk/android-ndk-r13b/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/ashawn/Library/Android/sdk/android-ndk-r13b/platforms/android-21/arch-x86  -Dandroid_dlib_EXPORTS -I../../../../../native/dlib -I../../../../../native/third_party/eigen3 -I../../../../../native/third_party/opencv/jni/include -I../../../../../native/third_party/miniglog -I../../../../../native/jni -I../../../../../native/jni/jni_detections -I../../../../../native/seetaface/FaceDetection/include -I../../../../include -isystem /Users/ashawn/Library/Android/sdk/android-ndk-r13b/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/ashawn/Library/Android/sdk/android-ndk-r13b/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/include -isystem /Users/ashawn/Library/Android/sdk/android-ndk-r13b/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti -std=c++11 -frtti -fexceptions -DMAX_LOG_LEVEL=0 -std=c++11 -Wall -Werror -O2 -DNDEBUG -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/ashawn/Projects/Mine/VirtualBeauty/native/jni/jni_common/jni_utils.cpp",
+					"workingDirectory" : "/Users/ashawn/Projects/Mine/VirtualBeauty/dlib-android/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  -target i686-none-linux-android -gcc-toolchain /Users/ashawn/Library/Android/sdk/android-ndk-r13b/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/ashawn/Library/Android/sdk/android-ndk-r13b/platforms/android-21/arch-x86  -Dandroid_dlib_EXPORTS -I../../../../../native/dlib -I../../../../../native/third_party/eigen3 -I../../../../../native/third_party/opencv/jni/include -I../../../../../native/third_party/miniglog -I../../../../../native/jni -I../../../../../native/jni/jni_detections -I../../../../../native/seetaface/FaceDetection/include -I../../../../include -isystem /Users/ashawn/Library/Android/sdk/android-ndk-r13b/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/ashawn/Library/Android/sdk/android-ndk-r13b/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/include -isystem /Users/ashawn/Library/Android/sdk/android-ndk-r13b/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti -std=c++11 -frtti -fexceptions -DMAX_LOG_LEVEL=0 -std=c++11 -Wall -Werror -O2 -DNDEBUG -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/ashawn/Projects/Mine/VirtualBeauty/native/jni/jni_common/rgb2yuv.cpp",
+					"workingDirectory" : "/Users/ashawn/Projects/Mine/VirtualBeauty/dlib-android/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  -target i686-none-linux-android -gcc-toolchain /Users/ashawn/Library/Android/sdk/android-ndk-r13b/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/ashawn/Library/Android/sdk/android-ndk-r13b/platforms/android-21/arch-x86  -Dandroid_dlib_EXPORTS -I../../../../../native/dlib -I../../../../../native/third_party/eigen3 -I../../../../../native/third_party/opencv/jni/include -I../../../../../native/third_party/miniglog -I../../../../../native/jni -I../../../../../native/jni/jni_detections -I../../../../../native/seetaface/FaceDetection/include -I../../../../include -isystem /Users/ashawn/Library/Android/sdk/android-ndk-r13b/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/ashawn/Library/Android/sdk/android-ndk-r13b/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/include -isystem /Users/ashawn/Library/Android/sdk/android-ndk-r13b/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti -std=c++11 -frtti -fexceptions -DMAX_LOG_LEVEL=0 -std=c++11 -Wall -Werror -O2 -DNDEBUG -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/ashawn/Projects/Mine/VirtualBeauty/native/jni/jni_common/yuv2rgb.cpp",
+					"workingDirectory" : "/Users/ashawn/Projects/Mine/VirtualBeauty/dlib-android/.externalNativeBuild/cmake/release/x86"
+				}
+			],
+			"output" : "/Users/ashawn/Projects/Mine/VirtualBeauty/dlib-android/build/intermediates/cmake/release/obj/x86/libandroid_dlib.so",
+			"toolchain" : "2240931717753323023"
+		},
+		"lib_opencv-Release-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "lib_opencv",
+			"buildType" : "release",
+			"output" : "/Users/ashawn/Projects/Mine/VirtualBeauty/dlib-android/../dlib-android/../native/third_party/opencv/libs/x86/libopencv_java3.so",
+			"toolchain" : "2240931717753323023"
+		},
+		"libdlib-Release-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "libdlib",
+			"buildType" : "release",
+			"output" : "/Users/ashawn/Projects/Mine/VirtualBeauty/dlib-android/../dlib-android/../native/../libs/x86/libdlib.so",
+			"toolchain" : "2240931717753323023"
+		},
+		"libfacedetection-Release-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "libfacedetection",
+			"buildType" : "release",
+			"output" : "/Users/ashawn/Projects/Mine/VirtualBeauty/dlib-android/../dlib-android/../native/../libs/x86/libfacedetection.so",
+			"toolchain" : "2240931717753323023"
+		},
+		"libminiglog-Release-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "libminiglog",
+			"buildType" : "release",
+			"output" : "/Users/ashawn/Projects/Mine/VirtualBeauty/dlib-android/../dlib-android/../native/../libs/x86/libminiglog.so",
+			"toolchain" : "2240931717753323023"
+		}
+	},
+	"toolchains" : 
+	{
+		"2240931717753323023" : 
+		{
+			"cCompilerExecutable" : "/Users/ashawn/Library/Android/sdk/android-ndk-r13b/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Users/ashawn/Library/Android/sdk/android-ndk-r13b/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}

@@ -1,0 +1,27 @@
+# ninja log v5
+1	1106	0	CMakeFiles/glnative.dir/Users/ashawn/Projects/Mine/VirtualBeauty/native/jni/jni_render/lipregion.cpp.o	20793efe270d7f59
+1	1109	0	CMakeFiles/glnative.dir/Users/ashawn/Projects/Mine/VirtualBeauty/native/jni/jni_render/gaussianblur.cpp.o	b4eb9205846c094f
+2	1111	0	CMakeFiles/glnative.dir/Users/ashawn/Projects/Mine/VirtualBeauty/native/jni/jni_render/psgray.cpp.o	689ff3c8bc1596
+0	1121	0	CMakeFiles/glnative.dir/Users/ashawn/Projects/Mine/VirtualBeauty/native/jni/jni_render/bilateralfilter.cpp.o	fce1aef82fef8cae
+0	1123	0	CMakeFiles/glnative.dir/Users/ashawn/Projects/Mine/VirtualBeauty/native/jni/jni_render/cameralighten.cpp.o	86fa6f2379e22dd8
+1	1125	0	CMakeFiles/glnative.dir/Users/ashawn/Projects/Mine/VirtualBeauty/native/jni/jni_render/cameratexture.cpp.o	ce83ec298bbc973c
+3	1127	0	CMakeFiles/glnative.dir/Users/ashawn/Projects/Mine/VirtualBeauty/native/jni/jni_render/pslevels.cpp.o	b9c78d15996ce066
+2	1129	0	CMakeFiles/glnative.dir/Users/ashawn/Projects/Mine/VirtualBeauty/native/jni/jni_render/polygoncolor.cpp.o	b956b75fad21fbbd
+1129	1180	0	CMakeFiles/glnative.dir/Users/ashawn/Projects/Mine/VirtualBeauty/native/jni/jni_render/transform4_3to16_9.cpp.o	1559994461dd3afb
+0	1308	0	CMakeFiles/glnative.dir/Users/ashawn/Projects/Mine/VirtualBeauty/native/jni/jni_render/alphatexturecolor.cpp.o	af5f7e6e66b5fd82
+1308	1382	0	CMakeFiles/glnative.dir/Users/ashawn/Projects/Mine/VirtualBeauty/native/jni/jni_render/common/platform_asset_utils.cpp.o	eee5fbf5876e02c
+1	1388	0	CMakeFiles/glnative.dir/Users/ashawn/Projects/Mine/VirtualBeauty/native/jni/jni_render/objmesh.cpp.o	2346895e72c210b3
+1388	1436	0	CMakeFiles/glnative.dir/Users/ashawn/Projects/Mine/VirtualBeauty/native/jni/jni_render/gl/gl_data.cpp.o	d4c09b5e744089b1
+1382	1464	0	CMakeFiles/glnative.dir/Users/ashawn/Projects/Mine/VirtualBeauty/native/jni/jni_render/image/image_data.cpp.o	9d8951b23bade6d8
+1436	1635	0	CMakeFiles/glnative.dir/Users/ashawn/Projects/Mine/VirtualBeauty/native/jni/jni_render/gl/gl_obj_loader.cpp.o	bdb2668b3611636c
+1109	2162	0	CMakeFiles/glnative.dir/Users/ashawn/Projects/Mine/VirtualBeauty/native/jni/jni_render/skincolor.cpp.o	52e6f946865fca35
+1121	2172	0	CMakeFiles/glnative.dir/Users/ashawn/Projects/Mine/VirtualBeauty/native/jni/jni_render/texturemultiplycolor.cpp.o	b11c09eecbc0361f
+1123	2172	0	CMakeFiles/glnative.dir/Users/ashawn/Projects/Mine/VirtualBeauty/native/jni/jni_render/texturemultiplytexture.cpp.o	ac21598651a968ad
+1125	2172	0	CMakeFiles/glnative.dir/Users/ashawn/Projects/Mine/VirtualBeauty/native/jni/jni_render/textureoverlay.cpp.o	a138c9162918dd5f
+1127	2176	0	CMakeFiles/glnative.dir/Users/ashawn/Projects/Mine/VirtualBeauty/native/jni/jni_render/yuv2rgb.cpp.o	f1cddafdbcdf5594
+1111	2193	0	CMakeFiles/glnative.dir/Users/ashawn/Projects/Mine/VirtualBeauty/native/jni/jni_render/texture2d.cpp.o	9118beb4a4dc27a7
+1180	2197	0	CMakeFiles/glnative.dir/Users/ashawn/Projects/Mine/VirtualBeauty/native/jni/jni_render/yuvsp2rgb.cpp.o	e8591a0a6476b710
+1107	2268	0	CMakeFiles/glnative.dir/Users/ashawn/Projects/Mine/VirtualBeauty/native/jni/jni_render/rendercontroller.cpp.o	7ff83eb34b5b204
+1464	2273	0	CMakeFiles/glnative.dir/Users/ashawn/Projects/Mine/VirtualBeauty/native/jni/jni_render/gl/gl_program_loader.cpp.o	d069bc1dd995a6bc
+1635	2406	0	CMakeFiles/glnative.dir/Users/ashawn/Projects/Mine/VirtualBeauty/native/jni/jni_render/gl/glutils.cpp.o	57c9110f18243543
+2406	2606	0	../../../../build/intermediates/cmake/debug/obj/x86/libglnative.so	3efd80aab2a9c6fe

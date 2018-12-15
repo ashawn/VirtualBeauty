@@ -1,0 +1,11 @@
+# ninja log v5
+2	136	0	CMakeFiles/android_dlib.dir/Users/ashawn/Projects/Mine/VirtualBeauty/native/jni/jni_common/rgb2yuv.cpp.o	bd4f06cd99c917eb
+3	136	0	CMakeFiles/android_dlib.dir/Users/ashawn/Projects/Mine/VirtualBeauty/native/jni/jni_common/yuv2rgb.cpp.o	406c1db905ddf73
+2	350	0	CMakeFiles/android_dlib.dir/Users/ashawn/Projects/Mine/VirtualBeauty/native/jni/jni_common/jni_fileutils.cpp.o	81dd9f267faadd8d
+0	803	0	CMakeFiles/android_dlib.dir/Users/ashawn/Projects/Mine/VirtualBeauty/native/jni/jni_detections/jni_imageutils.cpp.o	384be70c428c6f8f
+2	1137	0	CMakeFiles/android_dlib.dir/Users/ashawn/Projects/Mine/VirtualBeauty/native/jni/jni_common/jni_utils.cpp.o	605c20f95a75fe70
+1	1530	0	CMakeFiles/android_dlib.dir/Users/ashawn/Projects/Mine/VirtualBeauty/native/jni/jni_common/jni_bitmap2mat.cpp.o	b1a26e99a56beb0f
+1	4471	0	CMakeFiles/android_dlib.dir/Users/ashawn/Projects/Mine/VirtualBeauty/native/jni/jni_detections/ThinPlateSpline.cpp.o	24ef1ca6543419ec
+1	6894	0	CMakeFiles/android_dlib.dir/Users/ashawn/Projects/Mine/VirtualBeauty/native/jni/jni_detections/jni_pedestrian_det.cpp.o	d6e1744fcca93fb4
+0	122528	0	CMakeFiles/android_dlib.dir/Users/ashawn/Projects/Mine/VirtualBeauty/native/jni/jni_detections/jni_face_det.cpp.o	bca1580ac0d91ecc
+122528	122764	0	../../../../build/intermediates/cmake/release/obj/x86/libandroid_dlib.so	550d44c46972613e

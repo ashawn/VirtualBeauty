@@ -1,0 +1,40 @@
+{
+  "status": 200,
+  "message": "success",
+  "renderschemes": [
+    {
+      "id": 100,
+      "name": "remote sol1",
+      "preview": "http://test/preview.jpg",
+      "components": [
+        {
+          "position": "mouse",
+          "type": "color",
+          "value": "0xffff0000"
+        },
+        {
+          "position": "eyebrow",
+          "type": "texture",
+          "value": "http://test/eyebrow.png"
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "name": "remote sol2",
+      "preview": "http://test/preview.jpg",
+      "components": [
+        {
+          "position": "mouse",
+          "type": "color",
+          "value": "0xffff0000"
+        },
+        {
+          "position": "eyebrow",
+          "type": "texture",
+          "value": "http://test/eyebrow.png"
+        }
+      ]
+    }
+  ]
+}

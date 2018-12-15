@@ -1,0 +1,12 @@
+**/.idea
+*~
+*.swp
+*.o
+*.so
+build
+dist
+*.egg-info/
+android/obj
+android/libs
+android/jniLibs
+

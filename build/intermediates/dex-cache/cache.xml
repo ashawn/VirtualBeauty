@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/ashawn/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.8/55a1aa1cdcfd06b9950ca856e2bc2790e105146a/dagger-2.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="55a1aa1cdcfd06b9950ca856e2bc2790e105146a">
+        <dex dex="/Users/ashawn/Projects/Mine/VirtualBeauty/app/build/intermediates/transforms/dex/debug/folders/1000/10/dagger-2.8_ea6553cc7d5be008de3ced671696c212f5a22970/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ashawn/.android/build-cache/0176d4bd9fbcce1fe23e5adfd3e9472c03ca583f/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/ashawn/Projects/Mine/VirtualBeauty/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_daf291dc4e02bb2ad55c3bfb34b469103270631c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ashawn/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/ashawn/Projects/Mine/VirtualBeauty/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.8.0_12f2b489209575771307dddd7f3b5ce52f8c1972/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ashawn/.android/build-cache/7ff101e59c5d13d86f1c64626371fb22cbbb42f8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="/Users/ashawn/Projects/Mine/VirtualBeauty/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_045b5a1269030f5ef68ea10a320332692b411d58/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ashawn/.android/build-cache/3eb0c05c0c9b63c45057b10140a06fdcf4089d9a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/ashawn/Projects/Mine/VirtualBeauty/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3883fbd7f31c57c76b4de00555b1ba1f929095f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ashawn/.android/build-cache/386bc580f8587605ba1329333bf3a5b48b2f1954/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/Users/ashawn/Projects/Mine/VirtualBeauty/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_16490bc0c4c5d4851ede259bc60c64782bbd8ee1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ashawn/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/ashawn/Projects/Mine/VirtualBeauty/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_86e58b79c5dff27b848607ef7cd8203466b99638/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ashawn/.android/build-cache/26f757ccb409dc78f16bd2bcb9430591231b882c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="/Users/ashawn/Projects/Mine/VirtualBeauty/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0ff0c6f380f3ff4d3cfeb21709a18a112c4a646a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ashawn/.android/build-cache/c9ae07931d891bfc26275a8c3ad24faf5c4dd010/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/ashawn/Projects/Mine/VirtualBeauty/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_77d6b73047991997d9d79a3f6eaa30f4d1fbecae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ashawn/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/ashawn/Projects/Mine/VirtualBeauty/app/build/intermediates/transforms/dex/debug/folders/1000/10/javax.inject-1_babc75a7a4a1b9c7ed7daeb6f17013638e0557df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ashawn/.android/build-cache/b780b35fec5a33c7c7d3367d63c21b695c60acc4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/ashawn/Projects/Mine/VirtualBeauty/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_abb99988b566cfd9077aa9d5428025666fe0bf20/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ashawn/Library/Android/sdk/build-tools/25.0.0/renderscript/lib/renderscript-v8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="05668b8cd6c7b07f152b6a5b4c6cff620817ba0f">
+        <dex dex="/Users/ashawn/Projects/Mine/VirtualBeauty/app/build/intermediates/transforms/dex/debug/folders/1000/10/renderscript-v8_9b7d010f1fbe3b8e2bff26b6f1dd95ec3a90a70d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ashawn/.android/build-cache/b780b35fec5a33c7c7d3367d63c21b695c60acc4/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/ashawn/Projects/Mine/VirtualBeauty/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_7a64cb51437abef047ca0bf58aa2c6a0b976e450/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ashawn/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/ashawn/Projects/Mine/VirtualBeauty/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_859a60378d5739d9489e6f30f54e4b1230a52751/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ashawn/.android/build-cache/0176d4bd9fbcce1fe23e5adfd3e9472c03ca583f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/ashawn/Projects/Mine/VirtualBeauty/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c84c6895fa52dff2175b52fdcbae3d54e938326f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ashawn/Projects/Mine/VirtualBeauty/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cff551aec6e595000bbfb23915943406b94d49d6">
+        <dex dex="/Users/ashawn/Projects/Mine/VirtualBeauty/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3d82e353d978f394646e49e4655f7939c8a2c71a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ashawn/.android/build-cache/c25e1a33e614bb3ca5dfcb8e4c2346ed1ff1ed84/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/ashawn/Projects/Mine/VirtualBeauty/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2815b0fb79175e530fdb06c01951f736301fd91a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ashawn/.android/build-cache/3eb0c05c0c9b63c45057b10140a06fdcf4089d9a/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/ashawn/Projects/Mine/VirtualBeauty/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c15866ddd5b4e9d5342383ace1b16be4389253d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ashawn/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/Users/ashawn/Projects/Mine/VirtualBeauty/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.8.0_620626d6139139d0285b03d8fdec6a49912a87ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ashawn/Projects/Mine/VirtualBeauty/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/ashawn/Projects/Mine/VirtualBeauty/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_97d881077d28593dba30d54c776de40a2f9c18c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ashawn/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.0.4/cbcf91e47e43607fb628b11b3571f212f11a6f84/rxjava-2.0.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cbcf91e47e43607fb628b11b3571f212f11a6f84">
+        <dex dex="/Users/ashawn/Projects/Mine/VirtualBeauty/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-2.0.4_3d04171262ce6b77c472cdac5d2c1acec885b861/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ashawn/.android/build-cache/64adbb0186537f33bc0b5826c9d18dd1a3a74f3a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/ashawn/Projects/Mine/VirtualBeauty/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3a3aaf100fd92d6929b6caf030d5b215c5bf8a4c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ashawn/.android/build-cache/c25e1a33e614bb3ca5dfcb8e4c2346ed1ff1ed84/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/ashawn/Projects/Mine/VirtualBeauty/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_5ad8d9007dfffcac340f5b6fb99fa0ba51e09770/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ashawn/.android/build-cache/1c4bfdf9c81fef1469457bf3c34577367874aa1c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/ashawn/Projects/Mine/VirtualBeauty/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_667a67215914453d27188e3ce21c40b48a99ca35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ashawn/.android/build-cache/0ac91c4b51b6ab870131f29e5f1e37166772a3c7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/ashawn/Projects/Mine/VirtualBeauty/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_046c925494e34bfc5ce54fcaff53f34b1b59b626/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ashawn/.android/build-cache/64adbb0186537f33bc0b5826c9d18dd1a3a74f3a/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/ashawn/Projects/Mine/VirtualBeauty/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_e847775be43006d44164ebafb81e3b4ffd240cf1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ashawn/.android/build-cache/d90592a36eb6e249cd4749c233df2fdd871bd130/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/ashawn/Projects/Mine/VirtualBeauty/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cbfea4484fd5e943f5a6a4bc6e2fcf04250209b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ashawn/.gradle/caches/modules-2/files-2.1/org.orbisgis/poly2tri-core/0.1.2/2cc1eb7c5160b418bcd45f3c0bf60b32ef489a4d/poly2tri-core-0.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2cc1eb7c5160b418bcd45f3c0bf60b32ef489a4d">
+        <dex dex="/Users/ashawn/Projects/Mine/VirtualBeauty/app/build/intermediates/transforms/dex/debug/folders/1000/10/poly2tri-core-0.1.2_659a1ae84904eafedfbd0aa7333ab409319436cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ashawn/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/Users/ashawn/Projects/Mine/VirtualBeauty/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.3.0_1ff62d59d69bae777b7e2b9f56903e0aca12cc92/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ashawn/.android/build-cache/4674f29b2ca8580e046125f867d2a7e2fb4f825b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/ashawn/Projects/Mine/VirtualBeauty/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_24abb7529f4a843e28d5db5a2f6fbaa3cf74a999/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ashawn/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.6.0/b353147a7d51fcfcd818d8aa6784839783db0915/slf4j-api-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b353147a7d51fcfcd818d8aa6784839783db0915">
+        <dex dex="/Users/ashawn/Projects/Mine/VirtualBeauty/app/build/intermediates/transforms/dex/debug/folders/1000/10/slf4j-api-1.6.0_f22f532bfc370f25162484c0aa09044239471e51/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ashawn/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.4.0/ea392375cf9ff59234a82e7928a204215ccc98cd/butterknife-annotations-8.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="/Users/ashawn/Projects/Mine/VirtualBeauty/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.4.0_8ca2f2635601119e8dcdae6841f01c6b94dfea69/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ashawn/.gradle/caches/modules-2/files-2.1/com.jakewharton.retrofit/retrofit2-rxjava2-adapter/1.0.0/e117362a2103f8ec01091ebd2f40aca4e1ada599/retrofit2-rxjava2-adapter-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e117362a2103f8ec01091ebd2f40aca4e1ada599">
+        <dex dex="/Users/ashawn/Projects/Mine/VirtualBeauty/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit2-rxjava2-adapter-1.0.0_c75b325bf50ef584c6307b0438ea5d48331d870f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ashawn/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/ashawn/Projects/Mine/VirtualBeauty/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_38c0003d59cb385aaad037fea0fdfc71e2d14dae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ashawn/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="/Users/ashawn/Projects/Mine/VirtualBeauty/app/build/intermediates/transforms/dex/debug/folders/1000/10/reactive-streams-1.0.0_cf9a893396834d267bbdfa9687264ca93fe80a2b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ashawn/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/ashawn/Projects/Mine/VirtualBeauty/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_8388e72fc9dc92a7b29d05c00386eaa38d8512ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ashawn/.android/build-cache/a2ec44754ab6b2a2816bbcea126c038a6f63b6f9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/ashawn/Projects/Mine/VirtualBeauty/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2a1762b837f8635bcbed289493a1a9e8b40b8873/classes.dex" />
+    </item>
+
+</items>

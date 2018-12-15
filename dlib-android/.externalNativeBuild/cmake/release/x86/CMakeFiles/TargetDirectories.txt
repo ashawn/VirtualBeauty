@@ -1,0 +1,3 @@
+/Users/ashawn/Projects/Mine/VirtualBeauty/dlib-android/.externalNativeBuild/cmake/release/x86/CMakeFiles/edit_cache.dir
+/Users/ashawn/Projects/Mine/VirtualBeauty/dlib-android/.externalNativeBuild/cmake/release/x86/CMakeFiles/rebuild_cache.dir
+/Users/ashawn/Projects/Mine/VirtualBeauty/dlib-android/.externalNativeBuild/cmake/release/x86/CMakeFiles/android_dlib.dir

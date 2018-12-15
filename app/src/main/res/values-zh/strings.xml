@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">虚拟美妆</string>
+    <string name="main_exit">退出</string>
+    <string name="main_title">美丽美妆</string>
+    <string name="main_beauty_video">美妆视频</string>
+    <string name="main_beauty_instant">实时试装</string>
+    <string name="main_beauty_store">妆品商城</string>
+    <string name="capture_video">视频</string>
+    <string name="capture_store">商店</string>
+    <string name="capture_share">分享</string>
+    <string name="capture_contrast">对比</string>
+</resources>

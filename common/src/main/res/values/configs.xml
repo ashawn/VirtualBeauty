@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="testEnabled">false</bool>
+    <bool name="debugEnabled">false</bool>
+    <bool name="infoEnabled">false</bool>
+    <bool name="warningEnabled">false</bool>
+    <bool name="errorEnabled">true</bool>
+    <bool name="verboseEnabled">false</bool>
+    <bool name="stackEnabled">true</bool>
+</resources>

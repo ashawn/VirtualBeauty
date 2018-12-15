@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+    android:background="@android:color/black">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginStart="100px">
+
+        <View
+            android:id="@+id/view_test2"
+            android:layout_width="50px"
+            android:layout_height="50px"
+            android:background="@android:color/holo_orange_dark"/>
+    </FrameLayout>
+
+    <View
+        android:id="@+id/view_test1"
+        android:layout_width="80px"
+        android:layout_height="80px"
+        android:background="@android:color/holo_blue_bright"/>
+</FrameLayout>
