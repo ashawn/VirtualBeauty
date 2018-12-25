@@ -69,7 +69,6 @@ public class RenderThread implements IRenderAdapter,Runnable {
     @Override
     public void setData(Type pEnum, List<Point> vertexData, int width, int height) {
         mRenderController.setData(pEnum, vertexData, width, height);
-        vertexData.s
     }
 
     @Override
